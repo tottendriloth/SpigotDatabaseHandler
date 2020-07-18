@@ -1,0 +1,5 @@
+name: DatabaseHandler
+version: 0.1
+author: tottenhammad
+main: me.totten.databasehandler.DatabaseHandler
+api-version: 1.13
